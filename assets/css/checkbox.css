@@ -1,0 +1,4 @@
+p#wc-ymlp-checkbox-wrapper{ clear:both; display:block; }
+p#wc-ymlp-checkbox-wrapper input#wc-ymlp-checkbox { position:relative; margin:0 5px 0 0; padding:0; height:13px; width:13px; 
+	display:inline-block; -webkit-appearance: checkbox; clear:both; }
+p#wc-ymlp-checkbox-wrapper label{ cursor:pointer; }
